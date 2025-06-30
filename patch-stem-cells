@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>life-way</title>
+    <meta name="description" content="life-way" />
+    <meta name="author" content="iggdrassilon" />
+    <meta property="og:url" content="https://life-way.ru" />
+    <meta property="og:type" content="website about health saving" />
+    <meta
+      property="og:logo"
+      content="https://life-way.ru/images/sun.png"
+    />
+    <meta property="og:title" content="Life-way" />
+    <meta
+      property="og:description"
+      content="Change your life with light technologies."
+    />
+    <meta
+      property="og:image"
+      content="https://life-way.ru/images/preview-open-gpaph.jpg"
+    />
+
+    <meta
+      name="twitter:card"
+      content="https://life-way.ru/images/preview-open-gpaph.jpg"
+    />
+    <meta
+      property="twitter:image"
+      content="https://life-way.ru/images/preview-open-gpaph.jpg"
+    />
+
+    <link
+      rel="shortcut icon"
+      href="/assets/favicon-kQa4c0Ht.ico"
+      type="image/x-icon"
+    />
+    <script type="module" crossorigin src="/assets/index-jYImHlKV.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CYTxx2M0.css">
+    <script type="module">import.meta.url;import("_").catch(()=>1);(async function*(){})().next();if(location.protocol!="file:"){window.__vite_is_modern_browser=true}</script>
+    <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+  </head>
+  <body>
+    <div id="root" style="overflow: hidden"></div>
+    <noscript>
+      <!doctype html>
+      <html lang="ru">
+        <head>
+          <meta charset="UTF-8" />
+          <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0"
+          />
+          <title>JavaScript отключен</title>
+          <style>
+            body {
+              font-family: Arial, sans-serif;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              height: 100vh;
+              background-color: #f2f2f2;
+              color: #333;
+              text-align: center;
+            }
+            img {
+              position: absolute;
+              top: 20px;
+              left: 20px;
+            }
+          </style>
+        </head>
+        <body>
+          <div>
+            <img src="./public/icons/_LOGO.svg" alt="lifewave logotype" />
+            <h1>JavaScript отключен</h1>
+            <p>
+              Для полноценной работы данного сайта необходим включенный
+              JavaScript.
+            </p>
+            <p>Пожалуйста, включите JavaScript в настройках вашего браузера.</p>
+            <p>
+              Мы не осуществляем сбор пользовательских данных и уважаем
+              приватность пользователей.
+            </p>
+          </div>
+          <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+          <script nomodule crossorigin id="vite-legacy-polyfill" src="/assets/polyfills-legacy-B4EwGVPY.js"></script>
+          <script nomodule crossorigin id="vite-legacy-entry" data-src="/assets/index-legacy-r5NGQWUS.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+        </body>
+      </html>
+    </noscript>
+  </body>
+</html>
